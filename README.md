@@ -3,7 +3,7 @@
 * download url: http://www.downza.cn/soft/74728.html
 ## About Operating System Installation
 * download url: http://www.xitongzhijia.net/win10/202111/232148.html
-* choose the way of ordinary download (otherwise there will be installed others softwares)
+  * choose the way of ordinary download (otherwise there will be installed others softwares)
 ## About Python Installation
 * download url: https://www.python.org/downloads/release/python-3104/
   * In the Content page, you will see these following versions, and you just need to choose the 'Windows installer (64-bit)'.
