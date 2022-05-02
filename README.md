@@ -1,6 +1,14 @@
 # Tutorial
 ## About VMware Installation
 * download url: http://www.downza.cn/soft/74728.html
+* Intallation steps: The installation manual has already included in the website
+  * setp 1 : download
+  * step 2 : double click the icon
+  * step 3 : choose the destination of your disk
+  * step 4 : set optional setting
+    * uncheck auto upgrade
+    * uncheck engage the Protocol
+  * next and finish 
 ## About Operating System Installation
 * download url: http://www.xitongzhijia.net/win10/202111/232148.html
   * choose the way of ordinary download (otherwise there will be installed others softwares)
