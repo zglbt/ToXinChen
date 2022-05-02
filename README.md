@@ -12,6 +12,9 @@
 ## About Operating System Installation
 * download url: http://www.xitongzhijia.net/win10/202111/232148.html
   * choose the way of ordinary download (otherwise there will be installed others softwares)
+* Intallation steps:
+  * open the vmware
+  * more details see this website: http://www.downza.cn/xy/92161.html
 ## About Python Installation
 * download url: https://www.python.org/downloads/release/python-3104/
   * In the Content page, you will see these following versions, and you just need to choose the 'Windows installer (64-bit)'.
@@ -26,4 +29,8 @@
     Windows installer (32-bit)        	  Windows 		                                    977b91d2e0727952d5e8e4ff07eee34e 	27338104 	  SIG
     Windows installer (64-bit) 	          Windows 	            Recommended 	            53fea6cfcce86fb87253364990f22109 	28488112 	  SIG
     ```
- 
+ * Intallation steps:
+   * open the operating system, Windows 10, in the vmware
+   * download the python setup
+   * double click the icon
+   * more details see the website: https://www.jb51.net/article/135658.htm
