@@ -34,3 +34,8 @@
    * download the python setup
    * double click the icon
    * more details see the website: https://www.jb51.net/article/135658.htm
+## About VScode Installation
+* download url : https://code.visualstudio.com/
+  * choose the version 'Windows X64 Stable'
+* Intallation steps:
+  * just next
